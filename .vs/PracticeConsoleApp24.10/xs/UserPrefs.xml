@@ -2,25 +2,23 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="PracticeConsoleApp24.10/Models/Quiz.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PracticeConsoleApp24.10/Program.cs">
     <Files>
-      <File FileName="PracticeConsoleApp24.10/Program.cs" Line="59" Column="6" />
-      <File FileName="PracticeConsoleApp24.10/Models/Quiz.cs" Line="24" Column="14" />
-      <File FileName="PracticeConsoleApp24.10/Models/Question.cs" Line="28" Column="14" />
+      <File FileName="PracticeConsoleApp24.10/Program.cs" Line="53" Column="1" />
+      <File FileName="PracticeConsoleApp24.10/Models/Quiz.cs" Line="91" Column="10" />
+      <File FileName="PracticeConsoleApp24.10/Models/Question.cs" />
       <File FileName="PracticeConsoleApp24.10/Exceptions/WrongInputException.cs" />
-      <File FileName="PracticeConsoleApp24.10/Exceptions/QuizAlreadyExistsException.cs" Line="6" Column="1" />
-      <File FileName="PracticeConsoleApp24.10/Helper.cs" Line="8" Column="40" />
-      <File FileName="PracticeConsoleApp24.10/Exceptions/QuizNotFoundException.cs" Line="11" Column="6" />
+      <File FileName="PracticeConsoleApp24.10/Exceptions/QuizAlreadyExistsException.cs" />
+      <File FileName="PracticeConsoleApp24.10/Helper.cs" />
+      <File FileName="PracticeConsoleApp24.10/Exceptions/QuizNotFoundException.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PracticeConsoleApp24.10" expanded="True">
-            <Node name="PracticeConsoleApp24.10" expanded="True">
+          <Node name="PracticeConsoleApp24.10">
+            <Node name="PracticeConsoleApp24.10">
               <Node name="Exceptions" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="Quiz.cs" selected="True" />
-              </Node>
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

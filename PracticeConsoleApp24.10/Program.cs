@@ -52,9 +52,16 @@ class Program
 
     public static void ShowQuizzes(List<Quiz> quizzes)
     {
-        foreach (Quiz quiz in quizzes)
+        if (quizzes != null && quizzes.Count > 0)
         {
-            Console.WriteLine($"{quiz.ID} || {quiz.Name}");
+            foreach (Quiz quiz in quizzes)
+            {
+                Console.WriteLine($"{quiz.ID} || {quiz.Name}");
+            }
+        }
+        else
+        {
+            Console.WriteLine("First you need to create a quiz");
         }
     }
 

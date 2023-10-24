@@ -89,7 +89,6 @@ namespace PracticeConsoleApp24._10.Models
             }
             Console.WriteLine($"Your score: {score}/{quiz.Questions.Count}");
         }
-
     }
 }
 
