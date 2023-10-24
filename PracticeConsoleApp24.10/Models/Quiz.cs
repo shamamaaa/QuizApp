@@ -53,7 +53,7 @@ namespace PracticeConsoleApp24._10.Models
             
         }
 
-        public static void SolveAQuiz(Quiz quiz)
+        public static void SolveAQuiz(Quiz quiz)     //Bu hissede komek almisam biraz
         {
             int score = 0;
             Console.WriteLine(quiz.Name);
